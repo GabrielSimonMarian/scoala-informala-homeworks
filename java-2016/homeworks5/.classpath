@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Magazin/MagazinGresie/MagazinGresie/src"/>
+	<classpathentry kind="src" path="Magazin/MagazinGresie/MagazinGresieSiFaianta/src"/>
+	<classpathentry kind="src" path="Magazin/MagazinGresieSiFaianta/MagazinGresie/src"/>
+	<classpathentry kind="src" path="Magazin/MagazinGresieSiFaianta/MagazinGresieSiFaianta/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Magazin/MagazinGresie/MagazinGresie/bin"/>
+</classpath>
