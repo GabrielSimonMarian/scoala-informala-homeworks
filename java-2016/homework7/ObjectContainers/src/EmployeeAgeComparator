@@ -1,0 +1,5 @@
+public class EmployeeAgeComparator implements Comparator<Employee> {
+	    public int compare(Employee chair1, Employee chair2) {
+	        return chair1.getYearsInCompany() - chair2.getYearsInCompany();
+	    }
+	}
